@@ -1,6 +1,6 @@
-// What are Floops ?, For Loops are similar to while loops, but instead of testing a condition, we're specifying the number of times that we want the loop to run.
+// What are Floops ? For Loops are similar to while loops, but instead of testing a condition, we're specifying the number of times that we want the loop to run.
 
-//  Example for loop code ////
+////  Example for loop code ////
 
 //  for (var i=1; i<2; i++) {
   // console.log(i);
@@ -9,6 +9,7 @@
 // Syntax Breakdown //
 
 // beginning with the for keyword
+
 // the first statement in the parentheses, is defining the starting point in the for loop. So in this example code. we're starting at 1. 
 
 // the next step is defining the end point, so we're ending when i is less than 2. 
@@ -18,7 +19,7 @@
 // so when creating a for loop we define the starting point, ending point, & how much i is going to change, & the code that should be carried out every single time the loop runs. 
 
 
-///////////////// For Loop Further brakdown //////////////////////
+///////////////// For Loop Further Breakdown //////////////////////
 
 
 // in our example the computer will run i = 1; and create a variable i & set it to equal 1.
@@ -57,7 +58,7 @@ fizzBuzz();
 
 // If we run the code we get the same result with the while loop, but its less wordy, more concise, and this is the format most progammers will prefer for a use case like this.
 
-/////////////////  unsure when to use while or for loop ??? ////////////////
+/////////////////  when to use while loop or for loop ?   ////////////////
 
 //  keep in mind while is essentially checking for a state, so its while something is true. for example while player one is still alive. So essentially you want to repeatedly run an instruction while the program is in a certain state. 
 
